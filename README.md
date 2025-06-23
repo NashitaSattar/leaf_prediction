@@ -1,0 +1,1 @@
+This project uses a Convolutional Neural Network (CNN) to classify the type of leaf from an input image. Implemented in a Jupyter Notebook, the model is trained on a labeled image dataset to recognize and predict different leaf species based on visual features.
